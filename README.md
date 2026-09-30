@@ -32,6 +32,22 @@ cd google-maps-b2b-lead-scraper && npm install && npm start
 
 ---
 
+### 3. 🔍 [AI PR Code Reviewer & Security Linter](https://github.com/Shokun123/ai-pr-reviewer-action)
+*Automated GitHub Action for Pull Request code review, secret leak prevention & OWASP security audits.*
+- **Zero-Dependency CI/CD Execution:** Runs directly in Node 20 runtime on GitHub free runners in under 3 seconds.
+- **Automated Secret Leak Detection:** Catches leaked AWS, GitHub, Stripe, and OpenAI keys before merging.
+- **Inline PR Commenting:** Detailed findings table with severity indicators and remediation suggestions.
+- **Marketplace Ready:** `uses: Shokun123/ai-pr-reviewer-action@v1`.
+
+```yaml
+- name: AI PR Reviewer
+  uses: Shokun123/ai-pr-reviewer-action@v1
+  with:
+    github-token: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
 ## 💳 Direct Sponsorship & Web3 Payments
 
 If you find my open-source tools valuable or want to license Pro features, you can support development directly:
