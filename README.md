@@ -9,7 +9,21 @@
 
 ## 🚀 Featured Open-Source Projects & Live Systems
 
-### 1. 🗺️ [Google Maps B2B Lead Extractor](https://github.com/Shokun123/google-maps-b2b-lead-scraper)
+### 1. ⚡ [Binance Pay SaaS Starter](https://github.com/Shokun123/binance-pay-saas-starter)
+*Production-ready Micro-SaaS Boilerplate with Zero-Fee Binance Pay Crypto Checkout & Automated Webhook Fulfillment.*
+- **Zero-Fee Digital Checkout:** Direct USDT/USDC peer-to-peer and merchant payments without 3-5% card fees.
+- **Cryptographic Engine:** Official Binance Pay v3 HMAC-SHA512 order signing and webhook verification.
+- **Drop-in UI & Licensing:** Ready-to-use `<BinancePayModal />` and automated software license key generator.
+- **Next.js 14/15 & Node.js Native:** Run in 60s with zero external dependencies.
+
+```bash
+git clone https://github.com/Shokun123/binance-pay-saas-starter.git
+cd binance-pay-saas-starter && npm start
+```
+
+---
+
+### 2. 🗺️ [Google Maps B2B Lead Extractor](https://github.com/Shokun123/google-maps-b2b-lead-scraper)
 *High-Performance Apify Actor for automated B2B lead generation, verified emails, phone numbers & social channels.*
 - **Zero Google Cloud API Fees:** Extract unlimited business listings without paying Google Cloud's $17-$32 per 1,000 requests.
 - **Deep Email & Social Enrichment:** Scans business domains automatically for emails, LinkedIn, Instagram, and Facebook profiles.
@@ -23,7 +37,7 @@ cd google-maps-b2b-lead-scraper && npm install && npm start
 
 ---
 
-### 2. 🛡️ [LeadRescue AI — Autonomous Speed-to-Lead SaaS](https://shokun123.github.io/leadrescue-ai/)
+### 3. 🛡️ [LeadRescue AI — Autonomous Speed-to-Lead SaaS](https://shokun123.github.io/leadrescue-ai/)
 *Interactive B2B Lead Conversion Audit & Zero-Latency Automation Engine.*
 - **Live Interactive Calculator:** Calculates revenue leakage based on Harvard Business Review speed-to-lead benchmarks.
 - **Dynamic Niche Presets:** Instant benchmarks for Marketing Agencies, Real Estate, Clinics, and B2B SaaS.
@@ -32,7 +46,7 @@ cd google-maps-b2b-lead-scraper && npm install && npm start
 
 ---
 
-### 3. 🔍 [AI PR Code Reviewer & Security Linter](https://github.com/Shokun123/ai-pr-reviewer-action)
+### 4. 🔍 [AI PR Code Reviewer & Security Linter](https://github.com/Shokun123/ai-pr-reviewer-action)
 *Automated GitHub Action for Pull Request code review, secret leak prevention & OWASP security audits.*
 - **Zero-Dependency CI/CD Execution:** Runs directly in Node 20 runtime on GitHub free runners in under 3 seconds.
 - **Automated Secret Leak Detection:** Catches leaked AWS, GitHub, Stripe, and OpenAI keys before merging.
