@@ -62,6 +62,30 @@ cd google-maps-b2b-lead-scraper && npm install && npm start
 
 ---
 
+### 5. 💻 [AI Commit Generator for VS Code](https://github.com/Shokun123/vscode-ai-commit-generator)
+*Visual Studio Code Extension to generate semantic Conventional Commit messages & changelogs from staged Git diffs.*
+- **Zero Configuration:** Works in any Git repository using standard Conventional Commits (`feat`, `fix`, `refactor`).
+- **Automated Changelogs:** Generates markdown release notes directly from Git history.
+- **Pro Tier:** Multi-line bullet explanations and custom team presets ($15 USDT via Binance Pay).
+
+---
+
+### 6. 🏛️ [Awesome System Architecture & AI Prompts](https://github.com/Shokun123/awesome-system-architecture-ai)
+*Curated collection of battle-tested software architecture blueprints, system design diagrams, and production AI prompts.*
+- **Zero-Cost Serverless Designs:** $0/mo scalable micro-SaaS architecture blueprints.
+- **Production AI Prompts:** Calibrated prompts for security auditing and speed-to-lead qualification.
+- **Sponsorship & Pro Super-Pack:** Featured tool placements ($35/mo) and 250+ prompt bundle download ($15 USDT).
+
+---
+
+### 7. 🐳 [Docker Backup Relay](https://github.com/Shokun123/docker-backup-relay)
+*Zero-config automated database backup, gzip compression & encrypted Telegram/S3 relay in Docker.*
+- **Self-Hosted Simplicity:** 1-command deployment (`docker compose up -d`) protecting PostgreSQL, SQLite, and MySQL.
+- **AES-256 Hardware Encryption:** Military-grade encryption before cloud or Telegram dispatch ($25 USDT Pro license).
+- **Built-in REST Health API:** Automated uptime and backup timestamp monitoring.
+
+---
+
 ## 💳 Direct Sponsorship & Web3 Payments
 
 If you find my open-source tools valuable or want to license Pro features, you can support development directly:
