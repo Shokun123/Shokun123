@@ -5,6 +5,8 @@
 
 > Full-Stack & Automation Software Engineer building high-performance B2B growth tooling, data scrapers, and autonomous AI micro-services.
 
+> 🌐 **Central Developer Portal:** [shokun123.github.io/shokun-devtools-hub](https://shokun123.github.io/shokun-devtools-hub/) — Interactive multi-product catalog with universal Binance Pay checkout.
+
 ---
 
 ## 🚀 Featured Open-Source Projects & Live Systems
