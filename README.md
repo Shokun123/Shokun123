@@ -112,6 +112,30 @@ cd google-maps-b2b-lead-scraper && npm install && npm start
 
 ---
 
+### 11. 🛰️ [Webhook Mock Engine](https://github.com/Shokun123/webhook-mock-engine)
+*Zero-dependency local HTTP webhook receiver, request inspector, and automated TypeScript interface generator.*
+- **Zero-Fee Local Testing:** Inspect inbound Stripe, Binance Pay, and Shopify webhooks without paying for Ngrok or Webhook.site.
+- **Automated TypeScript Generation:** Auto-generates TypeScript interfaces matching incoming webhook payloads.
+- **Pro Bundle:** Mock fixtures exporter for Jest/Vitest and retry replay engine ($19 USDT via Binance Pay).
+
+---
+
+### 12. 📄 [Markdown Docs PDF Builder](https://github.com/Shokun123/markdown-docs-pdf-builder)
+*Zero-dependency Markdown compiler for high-contrast HTML documentation, print stylesheets, and vector PDF exports.*
+- **Zero Puppeteer Bloat:** Compiles in sub-10ms without installing 500MB Chromium binaries that fail in CI.
+- **Print & Theme Engine:** Dark Mode, Minimalist Serif, and Executive Stripe themes with auto-print dialogue support.
+- **Pro Template Super-Pack:** 20+ production markdown templates for SLAs, MSAs, and architecture whitepapers ($15 USDT).
+
+---
+
+### 13. 🛡️ [Env Guardian CLI](https://github.com/Shokun123/env-guardian-cli)
+*Pre-commit secret leak shield, environment variable auditor, and AES-256-GCM encrypted environment synchronizer.*
+- **Automated Secret Shield:** Zero-dependency Git pre-commit hook that automatically blocks unencrypted `.env` commits.
+- **.env Parity & Sanitizer:** Audits `.env` against `.env.example` and generates clean placeholder templates in 1 click.
+- **Enterprise Team License:** AES-256-GCM symmetric encryption for sharing environments without Doppler ($19 USDT).
+
+---
+
 ## 💳 Direct Sponsorship & Web3 Payments
 
 If you find my open-source tools valuable or want to license Pro features, you can support development directly:
