@@ -3,22 +3,22 @@
 [![Binance Pay](https://img.shields.io/badge/Support%20via-Binance%20Pay-F0B90B.svg?style=for-the-badge&logo=binance&logoColor=white)](https://pay.binance.com/)
 [![GitHub followers](https://img.shields.io/github/followers/Shokun123?label=Follow&style=for-the-badge&color=24292e)](https://github.com/Shokun123)
 
-> Full-Stack & Web3 Software Engineer building high-performance decentralized systems, algorithmic trading tooling, and autonomous AI micro-services.
+> Full-Stack & Automation Software Engineer building high-performance B2B growth tooling, data scrapers, and autonomous AI micro-services.
 
 ---
 
 ## 🚀 Featured Open-Source Projects & Live Systems
 
-### 1. ⚡ [Solana & Binance Copytrade Agent](https://github.com/Shokun123/solana-copytrade-agent)
-*High-Performance Algorithmic Trading & Copytrade CLI Engine for Solana DEXs & Binance.*
-- **Zero-Config Real-Time Market Feed** streaming directly from public Binance endpoints (0 API keys needed).
-- **Zero-Risk Paper Trading Simulator** with real-time portfolio balance tracking and PnL reporting.
-- **Quantitative Signal Engine** running RSI-14 and Moving Average momentum cross calculations.
-- **Pro Institutional Tier:** Multi-pair parallel scanning, alpha wallet copytrading, and MEV front-run defense.
+### 1. 🗺️ [Google Maps B2B Lead Extractor](https://github.com/Shokun123/google-maps-b2b-lead-scraper)
+*High-Performance Apify Actor for automated B2B lead generation, verified emails, phone numbers & social channels.*
+- **Zero Google Cloud API Fees:** Extract unlimited business listings without paying Google Cloud's $17-$32 per 1,000 requests.
+- **Deep Email & Social Enrichment:** Scans business domains automatically for emails, LinkedIn, Instagram, and Facebook profiles.
+- **Multi-Format Export:** Clean, de-duplicated outputs ready for HubSpot, Apollo, or Lemlist in CSV, Excel (XLSX), or JSON.
+- **Apify Actor & CLI Ready:** Instant 1-click cloud execution or local Docker/Node.js pipeline.
 
 ```bash
-git clone https://github.com/Shokun123/solana-copytrade-agent.git
-cd solana-copytrade-agent && node src/index.js
+git clone https://github.com/Shokun123/google-maps-b2b-lead-scraper.git
+cd google-maps-b2b-lead-scraper && npm install && npm start
 ```
 
 ---
@@ -46,7 +46,7 @@ If you find my open-source tools valuable or want to license Pro features, you c
 
 - **Languages:** TypeScript, JavaScript (Node.js/Bun), Python, Bash, Rust
 - **Web3 & Crypto:** Solana Web3.js, Binance REST & WebSocket APIs, EVM Smart Contracts, DEX Routing (Raydium, Jupiter)
-- **Architecture:** Algorithmic Trading, Desktop Automation (Native Win32 RPA), AI Agents & LLM Function Calling, Serverless Cloudflare Workers
+- **Architecture:** Web Scraping & Data Extraction (Apify, Crawlee, Cheerio), Desktop Automation (Native Win32 RPA), AI Agents & LLM Function Calling, Serverless Cloudflare Workers
 
 ---
 
