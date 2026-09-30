@@ -88,6 +88,30 @@ cd google-maps-b2b-lead-scraper && npm install && npm start
 
 ---
 
+### 8. 🧠 [Awesome CursorRules & Agent Skills](https://github.com/Shokun123/awesome-cursorrules-agent-skills)
+*Curated collection of 50+ battle-tested `.cursorrules` and autonomous agent skills for Cursor, Claude & Gemini.*
+- **Zero Hallucination Rules:** Production rules for TypeScript, Python, Next.js, and CI/CD automation.
+- **Agent Skill System:** Full skill packages for enterprise orchestration, test generation, and refactoring.
+- **Pro Super-Pack & Sponsorship:** Complete prompt bundle ($19 USDT) and monthly tool placement ($30/mo).
+
+---
+
+### 9. ✉️ [Disposable Email Validator Micro-API](https://github.com/Shokun123/disposable-email-validator-api)
+*Sub-5ms edge API & Node.js library to block temporary, fake, and disposable burner emails in SaaS signups.*
+- **Ultra-Fast Edge Evaluation:** Zero latency overhead for Cloudflare Workers, Next.js API routes, and Express.
+- **4,000+ Burner Domains:** Frequently updated blocklist of Mailinator, GuerrillaMail, 10MinuteMail, and spam domains.
+- **Pro API Access:** Commercial self-hosted license ($15 USDT via Binance Pay).
+
+---
+
+### 10. 📚 [Developer & Founder OS (Obsidian & Notion Vault)](https://github.com/Shokun123/dev-founder-os-vault)
+*Modular operating system and template bundle for technical solopreneurs, indie hackers, and software engineers.*
+- **Engineering & Product Architecture:** 15+ Architecture Decision Records (ADRs), API design specs, and OWASP checklists.
+- **Agile Sprint & Revenue Tracker:** Minimalist Markdown Kanban boards, runway calculators, and customer interview matrices.
+- **Perpetual Pro Vault:** Lifetime bundle download with automated setup scripts ($19 USDT via Binance Pay).
+
+---
+
 ## 💳 Direct Sponsorship & Web3 Payments
 
 If you find my open-source tools valuable or want to license Pro features, you can support development directly:
